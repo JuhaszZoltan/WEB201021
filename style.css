@@ -1,0 +1,30 @@
+body {
+  background-color: darkblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+table {
+  background-color: wheat;
+  border: none;
+  margin: auto;
+}
+
+td {   
+  padding: 5px;
+}
+
+.szoveg {
+  width: 60%;
+}
+
+.euhimnusz {
+  width: 90%;
+}
+
+.idezet {
+  text-align: right;
+}
